@@ -1,6 +1,6 @@
 # Heart-disease-model
 
-In this project I try to predict whether or not a patient has heart disease or not.
+In this project I try to predict whether or not a patient has heart disease.
 
 I tried three different models: LogisticRegression, KNeighborsClassifier and RandomForestClassifier.
 
